@@ -10,6 +10,6 @@ from plyer import notification
 
 notification.notify(
     title ="hello",
-    message="How is your day...!",
+    message="May I know your free time...!",
     app_icon=None,
     timeout=5)
